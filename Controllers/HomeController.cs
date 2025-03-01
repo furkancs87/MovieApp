@@ -14,7 +14,7 @@ namespace MovieApp.Controllers
         // Home/Index/3
         public IActionResult Index(int? id)
         {
-            
+           // NULL DENEME
            // return View(ProductRepository.Movies);
            // MovieRepository.Movies
            // CategoryRepositories.Categories
