@@ -7,6 +7,7 @@ using MovieApp.Models;
 
 namespace MovieApp.Controllers
 {
+    //This is HomeCoontroller
     public class HomeController:Controller
     {
         //3 numaralı kategoriye ait olan filmleri burada listeleyelim.
